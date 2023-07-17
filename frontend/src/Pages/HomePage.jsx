@@ -53,7 +53,7 @@ const HomePage = () => {
         borderWidth="1px"
       >
         <Text fontSize="4xl" color="black" textAlign="center">
-          Diggle
+          Chatter
         </Text>
       </Box>
       <Box
